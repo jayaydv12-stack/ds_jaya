@@ -1,7 +1,7 @@
 ## Files
-- 📓 notebook_1.ipynb — main analysis notebook
-- 📁 csv_files — input datasets
-- 📁 outputs — generated plots
+- notebook_1.ipynb - main analysis notebook
+- csv_files - input datasets
+- outputs - generated plots
 
 # Trader Behavior vs Market Sentiment Analysis
 
